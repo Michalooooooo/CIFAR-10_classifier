@@ -1,0 +1,43 @@
+# Środowisko wirtualne
+venv/
+.env/
+data/
+
+# Pliki PyCharm
+.idea/
+
+# Pliki kompilacji Pythona
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Pliki konfiguracyjne IDE
+*.iml
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki dziennika
+*.log
+
+# Pliki tymczasowe
+*.tmp
+*.swp
+*.swo
+*.swn
+
+# Pliki konfiguracji
+*.ini
+
+# Pliki pakietów
+*.egg
+*.egg-info
+dist/
+build/
+*.egg-info/
+
+# Zbędne pliki
+*.sqlite3
